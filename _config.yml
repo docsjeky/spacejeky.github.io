@@ -2,7 +2,7 @@
 title: Lorem Ipsum - Web Developer
 description: "A blog about lorem ipsum ..."
 baseurl: "/spacejeky.github.io" # the subpath of your site
-url: "http://spacejeky.github.io/spacejeky.github.io"
+url: "http://spacejeky.github.io"
 
 # User settings
 username: lorem ipsum
